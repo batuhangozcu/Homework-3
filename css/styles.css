@@ -3,6 +3,21 @@ main {
     Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
 }
 
+.header {
+  display: flex;
+  align-items: center;
+  width: 1440px;
+  height: 72px;
+}
+.header ul {
+  display: flex;
+  padding-inline: 50px;
+  margin-right: 230px;
+}
+.header ul li {
+  padding-inline: 20px;
+}
+
 .title-header {
   font-family: "raleway";
   color: #2e2f42;
@@ -10,6 +25,8 @@ main {
   font-size: 18px;
   line-height: 21px;
   letter-spacing: 3%;
+  margin-left: 156px;
+  margin-right: 25px;
 }
 .title-footer {
   font-family: "raleway";
@@ -43,6 +60,7 @@ address a {
   letter-spacing: 2%;
   color: #434455;
   font-style: normal;
+  padding-left: 30px;
 }
 
 address a:hover {
@@ -56,6 +74,7 @@ h1 {
   letter-spacing: 2%;
   text-align: center;
   color: #ffffff;
+  margin: 0px;
 }
 
 button {
