@@ -6,8 +6,9 @@ main {
 .header {
   display: flex;
   align-items: center;
-  height: 72px;
   border-bottom: 1px solid #e7e9fc;
+  padding-top: 20px;
+  padding-bottom: 20px;
 }
 .ul-nav {
   display: flex;
@@ -83,7 +84,7 @@ address a:hover {
   line-height: 1.5;
   letter-spacing: 4%;
   min-width: 169px;
-  height: 56px;
+  padding: 15px 0 15px 0;
   cursor: pointer;
   border-radius: 4px;
   margin-inline: 43%;
