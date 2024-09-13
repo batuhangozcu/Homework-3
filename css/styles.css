@@ -9,19 +9,20 @@ main {
   height: 72px;
   border-bottom: 1px solid #e7e9fc;
 }
-.header nav ul {
+.ul-nav {
   display: flex;
-  padding-inline: 50px;
   margin-right: 230px;
+  gap: 40px;
 }
 
-.title-header {
+.logo {
   font-family: "raleway";
   color: #2e2f42;
   font-weight: 700;
   font-size: 18px;
   line-height: 21px;
   letter-spacing: 3%;
+  margin-right: 76px;
 }
 .title-footer {
   font-family: "raleway";
@@ -106,7 +107,7 @@ button:hover {
   color: #2e2f42;
   width: calc((100% - 72px) / 4);
 }
-.menu-li-h3 {
+.menu-li-h {
   margin-bottom: 8px;
 }
 
@@ -141,7 +142,7 @@ button:hover {
   box-shadow: 1px 1px #2e2f4229;
 }
 .team-members {
-  width: calc((100%-72px)/4);
+  width: calc((100% - 72px) / 4);
   border-radius: 0px 0px 4px 4px;
 }
 .member-cards {
@@ -182,7 +183,7 @@ button:hover {
   margin-bottom: 8px;
 }
 .portf {
-  width: calc((100%-72px)/3);
+  width: calc((100%-72px) / 3);
 }
 .our-portfolio li h3 {
   font-weight: 500;
@@ -288,7 +289,7 @@ img {
   align-items: center;
 }
 
-.ul-nav {
+.nav-ul {
   display: flex;
   gap: 40px;
 }
