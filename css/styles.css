@@ -64,7 +64,7 @@ address a:hover {
   color: #404bbf;
 }
 
-.h-main {
+.main-h {
   font-weight: 700;
   font-size: 56px;
   letter-spacing: 2%;
@@ -283,17 +283,17 @@ img {
   display: block;
 }
 
-.nav-one {
+.first-nav {
   display: flex;
   align-items: center;
 }
 
-.nav-ul {
+.ul-nav {
   display: flex;
   gap: 40px;
 }
 
-.nav-two {
+.second-nav {
   padding: 24px 0;
 }
 .title-three {
