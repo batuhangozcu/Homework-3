@@ -74,7 +74,7 @@ address a:hover {
   margin-inline: auto;
 }
 
-.button-1 {
+.button-one {
   background-color: #4d5ae5;
   color: #ffffff;
   font-weight: 500;
@@ -158,14 +158,14 @@ button:hover {
   text-align: center;
 }
 
-.section-3 h2 {
+.section-three h2 {
   padding-bottom: 70px;
 }
-.section-3 h3 {
+.section-three h3 {
   font-size: 20px;
   font-weight: 500;
 }
-.section-3 p {
+.section-three p {
   font-size: 16px;
   font-weight: 400;
   padding-top: 30px;
@@ -194,30 +194,30 @@ button:hover {
   letter-spacing: 2%;
 }
 
-.section-1 {
+.section-one {
   display: flex;
   background-color: #2e2f42;
   padding: 188px 0;
 }
-.section-2 {
+.section-two {
   padding: 120px 0;
 }
-.section-3 {
+.section-three {
   background-color: #f4f4fd;
   padding: 120px 0;
 }
-.section-4 {
+.section-four {
   padding: 120px 0;
 }
 
-.section-4 img {
+.section-four img {
   width: 360px;
   height: 300px;
 }
-.section-4 h2 {
+.section-four h2 {
   margin-bottom: 72px;
 }
-.section-4 p {
+.section-four p {
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
@@ -275,13 +275,8 @@ span {
   padding-bottom: 120px;
   padding: 0 15px;
 }
-/* .container-footer {
-  width: 1158px;
-  margin: 0 auto;
-  align-items: center;
-} */
 
-.container-header {
+.header div {
   display: flex;
   margin: 0 auto;
   align-items: center;
@@ -291,12 +286,9 @@ img {
   display: block;
 }
 
-nav {
+.nav-one {
   display: flex;
   align-items: center;
-}
-.nav-last {
-  margin-right: 76px;
 }
 
 .nav-ul {
@@ -304,10 +296,10 @@ nav {
   gap: 40px;
 }
 
-.nav-2 {
+.nav-two {
   padding: 24px 0;
 }
-.title-3 {
+.title-three {
   margin-bottom: 72px;
   font-weight: 700;
   font-size: 36px;
