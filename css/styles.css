@@ -73,7 +73,7 @@ address a:hover {
   text-align: center;
   color: #ffffff;
   max-width: 496px;
-  margin-inline: auto;
+  padding-left: 29%;
 }
 
 .button-one {
@@ -87,7 +87,7 @@ address a:hover {
   padding: 15px 0 15px 0;
   cursor: pointer;
   border-radius: 4px;
-  margin-inline: 43%;
+  margin-left: 43%;
   display: block;
   border: none;
 }
