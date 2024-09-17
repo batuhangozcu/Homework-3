@@ -74,6 +74,7 @@ address a:hover {
   color: #ffffff;
   max-width: 496px;
   padding-left: 29%;
+  margin-bottom: 50px;
 }
 
 .button-one {
@@ -238,6 +239,7 @@ button:hover {
   max-width: 264px;
 }
 
+h1,
 h2,
 h3,
 h4,
@@ -318,4 +320,8 @@ img {
   clip-path: inset(100%);
   clip: rect(0 0 0 0);
   overflow: hidden;
+}
+
+body {
+  margin: 0;
 }
